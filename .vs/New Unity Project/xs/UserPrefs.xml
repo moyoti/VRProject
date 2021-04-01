@@ -1,0 +1,85 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/SimpleCapsuleWithStickMovement.cs">
+    <Files>
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" Line="512" Column="59" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRDisplay.cs" Line="122" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRRaycaster.cs" Line="30" Column="25" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGazePointer.cs" Line="221" Column="38" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRCursor.cs" Line="19" Column="23" />
+      <File FileName="Assets/Oculus/Avatar/Scripts/OvrAvatar.cs" Line="368" Column="65" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabManager.cs" Line="52" Column="35" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs" Line="72" Column="45" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs" Line="296" Column="39" />
+      <File FileName="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Scripts/DistanceGrabberSample.cs" Line="56" Column="20" />
+      <File FileName="Assets/Oculus/SampleFramework/Usage/DebugUI/DebugUISample.cs" Line="48" Column="28" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/DebugUIBuilder.cs" Line="19" Column="14" />
+      <File FileName="Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/PlayerController.cs" Line="8" Column="42" />
+      <File FileName="Assets/Oculus/Avatar/Samples/SocialStarter/Assets/Scripts/SocialPlatformManager.cs" Line="186" Column="16" />
+      <File FileName="Assets/Oculus/Avatar/Scripts/OvrAvatarLocalDriver.cs" Line="7" Column="44" />
+      <File FileName="Assets/Oculus/Avatar/Scripts/OvrAvatarDriver.cs" Line="96" Column="85" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRHand.cs" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.burst@1.4.6/Runtime/BurstCompiler.cs" Line="222" Column="1" />
+      <File FileName="Assets/DebugLogs.cs" Line="18" Column="39" />
+      <File FileName="Library/PackageCache/com.unity.animation.rigging@0.2.7-preview/Runtime/AnimationRig/Rig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/CharacterCameraConstraint.cs" Line="58" Column="34" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/SimpleCapsuleWithStickMovement.cs" Line="6" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="Avatar" expanded="True">
+                  <Node name="Samples" expanded="True">
+                    <Node name="SocialStarter" expanded="True">
+                      <Node name="Assets" expanded="True">
+                        <Node name="Scripts" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="DebugUI" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="DistanceGrab" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="Locomotion" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="SimpleCapsuleWithStickMovement.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="Usage" expanded="True">
+                    <Node name="DebugUI" expanded="True" />
+                    <Node name="DistanceGrab" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99245265-9e1c-4068-911b-6ff25a3025a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dongqihang/Documents/UnityProjects/New Unity Project/Assets/Oculus/VR/Scripts/Util/OVRGazePointer.cs" relfile="Assets/Oculus/VR/Scripts/Util/OVRGazePointer.cs" line="190" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
