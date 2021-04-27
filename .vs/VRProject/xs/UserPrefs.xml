@@ -1,0 +1,103 @@
+﻿<Properties StartupConfiguration="{ED4E5404-283F-BF83-1E68-BF8BEFFEADDD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRTK/Source/Scripts/Pointers/VRTK_DestinationMarker.cs">
+    <Files>
+      <File FileName="Assets/VRTK/Source/Scripts/Interactions/Interactors/VRTK_ControllerEvents.cs" Line="1491" Column="13" IsPinned="True" />
+      <File FileName="Assets/VRTK/Source/SDK/Unity/SDK_UnityControllerTracker.cs" Line="74" Column="16" IsPinned="True" />
+      <File FileName="Assets/VRTK/Source/Scripts/Pointers/VRTK_Pointer.cs" Line="187" Column="41" IsPinned="True" />
+      <File FileName="Assets/VRTK/LegacyExampleFiles/ExampleResources/Scripts/VRTK_ControllerEvents_ListenerExample.cs" Line="91" Column="19" />
+      <File FileName="Assets/DebugLogs.cs" Line="21" Column="1" />
+      <File FileName="Assets/VRTK/Source/SDK/Unity/SDK_UnityController.cs" Line="221" Column="42" />
+      <File FileName="Assets/VRTK/Examples/ExampleResources/SceneResources/[001 - Interactions] ControllerEvents/Scripts/VRTKExample_ControllerEventsDelegateListeners.cs" Line="608" Column="10" />
+      <File FileName="Assets/VRTK/Source/Scripts/Pointers/VRTK_DestinationMarker.cs" Line="76" Column="53" />
+      <File FileName="Assets/VRTK/Prefabs/DestinationPoint/VRTK_DestinationPoint.cs" Line="301" Column="17" />
+      <File FileName="Assets/VRTK/Source/Scripts/Internal/VRTK_VRInputModule.cs" Line="180" Column="32" />
+      <File FileName="Assets/VRTK/Source/Scripts/Pointers/PointerRenderers/VRTK_StraightPointerRenderer.cs" Line="200" Column="37" />
+      <File FileName="Assets/VRTK/Source/Scripts/Pointers/PointerRenderers/VRTK_BasePointerRenderer.cs" Line="403" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VRProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="LipSync" expanded="True">
+                  <Node name="Scenes" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="VRTK" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="ExampleResources" expanded="True">
+                    <Node name="SceneResources" expanded="True">
+                      <Node name="[001 - Interactions] ControllerEvents" expanded="True">
+                        <Node name="Scripts" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="LegacyExampleFiles" expanded="True">
+                  <Node name="ExampleResources" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Prefabs" expanded="True">
+                  <Node name="DestinationPoint" expanded="True" />
+                </Node>
+                <Node name="Source" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Controls" expanded="True">
+                      <Node name="3D" expanded="True">
+                        <Node name="Utilities" expanded="True" />
+                      </Node>
+                    </Node>
+                    <Node name="Interactions" expanded="True">
+                      <Node name="Interactors" expanded="True" />
+                    </Node>
+                    <Node name="Internal" expanded="True" />
+                    <Node name="Locomotion" expanded="True" />
+                    <Node name="Pointers" expanded="True">
+                      <Node name="PointerRenderers" expanded="True" />
+                      <Node name="VRTK_DestinationMarker.cs" selected="True" />
+                    </Node>
+                    <Node name="Utilities" expanded="True">
+                      <Node name="ControllerModelSettings" expanded="True" />
+                      <Node name="ObjectFollow" expanded="True" />
+                      <Node name="SDK" expanded="True" />
+                      <Node name="UnityEvents" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="SDK" expanded="True">
+                    <Node name="Base" expanded="True" />
+                    <Node name="Fallback" expanded="True" />
+                    <Node name="Oculus" expanded="True">
+                      <Node name="Resources" expanded="True" />
+                    </Node>
+                    <Node name="SteamVR" expanded="True" />
+                    <Node name="Unity" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VRProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99245265-9e1c-4068-911b-6ff25a3025a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
